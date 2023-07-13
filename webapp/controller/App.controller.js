@@ -7,6 +7,7 @@ sap.ui.define(
   
       return BaseController.extend("com.saimkurban.ztest002.ztest002.controller.App", {
         onInit() {
+          //COMMENT
         }
       });
     }
