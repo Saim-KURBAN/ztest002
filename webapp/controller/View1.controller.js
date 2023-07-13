@@ -9,7 +9,7 @@ sap.ui.define([
 
         return Controller.extend("com.saimkurban.ztest002.ztest002.controller.View1", {
             onInit: function () {
-
-            }
+                // TEST COMMENT
+            }   
         });
     });
